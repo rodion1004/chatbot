@@ -59,19 +59,13 @@ ADDITIONAL_RESPONSES = {
     "tell me about artificial intelligence": "Artificial intelligence (AI) is the simulation of human intelligence by machines.",
     "who is your favorite celebrity": "I don't have preferences, but I can provide information about various celebrities.",
     "what's the capital of Japan": "The capital of Japan is Tokyo.",
- 
     "do you like pizza": "I can't eat, but I can help you find pizza places near you.",
     "tell me a fun fact": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.",
     "what's the largest planet in our solar system": "Jupiter is the largest planet in our solar system.",
     "how does a search engine work": "Search engines use web crawlers to index websites and algorithms to rank and display search results.",
     "tell me a riddle": "I'm in the middle of water but never get wet. What am I? Answer: A shadow.",
     "what's the population of India": "As of my last update in 2021, India's population is over 1.3 billion people.",
-    "what's the square root of 144": "The square root of 144 is 12.",
-    "recommend a TV show": "What genre are you interested in? Comedy, drama, science fiction, or something else?",
-    "what's the difference between HTML and CSS": "HTML is used for structuring web content, while CSS is used for styling and layout.",
-    "tell me about famous scientists": "There are many famous scientists, like Albert Einstein, Isaac Newton, and Marie Curie.",
-    "how can I stay healthy": "Staying healthy involves a balanced diet, regular exercise, and good sleep habits.",
- 
+  
     "tell me a famous quote": "Here's one by Albert Einstein: 'Imagination is more important than knowledge.'",
     "how do I create a website": "You can create a website using HTML, CSS, and web development tools like WordPress or Wix.",
     "what's the boiling point of water": "The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit.",
