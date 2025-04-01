@@ -50,5 +50,3 @@ def start_server():
         thread = threading.Thread(target=handle_client, args=(client_socket,))
         thread.start()
 
-if __name__ == "__main__":
-    start_server()
