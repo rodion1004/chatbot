@@ -46,8 +46,7 @@ def greeting(sentence):
 ADDITIONAL_RESPONSES = {
     "how are you": "I'm just a chatbot, but thanks for asking!",
     "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
-    "who created you": "I was created by a team of developers, mostly Henry",
-    "bye": "Goodbye! Feel free to come back if you have more questions.",
+ 
     "what's your favorite color": "I don't have personal preferences, but I can help with your questions.",
     "who won the World Series in 2020": "The Los Angeles Dodgers won the World Series in 2020.",
     "what's the weather like today": "I don't have access to real-time data, but you can check a weather website or app.",
